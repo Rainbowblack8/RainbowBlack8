@@ -6,3 +6,5 @@ for i in range(len(b)) :
     c.reverse()
     d=str(c)
     print(reg.sub('',d),"",end="")
+  
+#dorov yak spravy?
